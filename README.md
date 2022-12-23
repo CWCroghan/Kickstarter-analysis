@@ -22,7 +22,7 @@ We limited the data for this analysis to project types of “Theater" and outcom
 
 The number of projects categorized by outcome is plotted against the Month of the launch.
 
-<img src="https://github.com/CWCroghan/Kickstarter-analysis/blob/main/TimeSeries.png" alt="Line Plot of Month of Launch vrs Outcomes">
+<img src="https://github.com/CWCroghan/Kickstarter-analysis/blob/main/Theater_Outcomes_Based_on_Launch_Dates.png" alt="Line Plot of Month of Launch vrs Outcomes">
 
 ### Analysis of Outcomes Based on Goals
 
