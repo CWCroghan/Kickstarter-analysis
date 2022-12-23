@@ -28,7 +28,7 @@ The number of projects categorized by outcome is plotted against the Month of th
 
 The Goals for each project were categorized into 12 different bins mostly consisting of 5,000 unit ranges.  We examined the possible relationship between project goals and outcomes by plotting the percent of different outcomes against the categorization of goals.
 
-<img src="https://github.com/CWCroghan/Kickstarter-analysis/blob/main/OutcomeChart.png" alt="Plot of Goals vrs Outcomes">
+<img src="https://github.com/CWCroghan/Kickstarter-analysis/blob/main/Outcomes_vs_Goals.png" alt="Plot of Goals vrs Outcomes">
 
 ## Results
 
